@@ -1,0 +1,8 @@
+{
+  "name": "breadcrumbs-review-notes",
+  "version": "1.0.0",
+  "description": "Lightweight format for inline document reviews",
+  "scripts": {
+    "generate_skill": "mkdir -p skill/references && cp -r core/* skill/references/"
+  }
+}
